@@ -323,7 +323,7 @@ footer{
     align-items: center;
     text-align: center;
     background-color: #fff;
-    border-top: rgba(0, 0, 0, 10%);
+    border-top: 1px solid rgba(0, 0, 0, 10%);
 }
 
 .footer-title{
