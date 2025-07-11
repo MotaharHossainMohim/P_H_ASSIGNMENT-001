@@ -78,5 +78,33 @@ nav ul li {
     font-weight: bold;
     color: #252432;
 
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    margin-bottom: 126px;
+    
+}
+.p-title{
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 23px;
 
+}
+.p-description{
+    font-size: 24px;
+    color:  rgba(37,36,50,50%);
+    max-width: 517px;
+    margin-bottom: 23px;
+}
+
+.action img{
+    border-radius: 48px;
+}
+main{
+    padding: 0px 105px;
+    padding-top: 106px;
+    padding-bottom: 14px;
+    background-color: #f5f8ff;
 }
