@@ -210,6 +210,46 @@ main{
 .feedbacker-date{
     color: rgba(179,179,179,100%);
 }
+
+
+/* Focus Section */
+.focus{
+    text-align: center;
+    padding: 71px 150px;
+    box-sizing: border-box;
+    margin-bottom: 83px;
+    background-color: #fff;
+    border-radius: 14px;
+}
+
+.focus-title{
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 120%;
+    margin-bottom: 20px;
+}
+
+.focus-detail{
+    font-size: 16px;
+    color:rgba(0, 0, 0, 50%);
+    margin-bottom: 20px;
+}
+
+.focus-btn{
+    margin-bottom: 20px;
+}
+
+.wb-big{
+    display: block;
+    border-radius: 48px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
 /* get-in-touch-section */
 
 .get-in-touch-section{
@@ -239,6 +279,9 @@ form{
 }
 
 .get-in-touch-section input, textarea{
+    font-size: 20px;
+    line-height: 150%;
+    font-weight: 400;
     width: 100%;
     display: block;
     margin-bottom: 20px;
@@ -246,6 +289,7 @@ form{
     border-radius: 10px;
     border: 1px solid #D6DDED;
     box-sizing: border-box;
+
 }
 
 .get-in-touch-section input{
